@@ -1,0 +1,3 @@
+[submodule "Core/Src/stm32-tm1637"]
+	path = Core/Src/stm32-tm1637
+	url = https://github.com/glmoritz/stm32-tm1637.git
