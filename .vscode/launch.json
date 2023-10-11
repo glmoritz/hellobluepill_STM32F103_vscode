@@ -21,6 +21,7 @@
             ],
             "svdFile": "STM32F103.svd",
             "preLaunchTask": "build", // The name of the task defined above
+            "rtos": "FreeRTOS",
             "runToMain": true
         }
     ]
